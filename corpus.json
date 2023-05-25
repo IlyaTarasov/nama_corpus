@@ -1,0 +1,81 @@
+{
+  "accidental_word_fields": [],
+  "all_language_search_enabled": true,
+  "ambiguous_analyses": false,
+  "author_metafield": "",
+  "auto_switch_tiers": {},
+  "citation": "nama corpus.",
+  "context_header_rtl": false,
+  "corpus_name": "nama_corpus",
+  "debug": false,
+  "default_locale": "en",
+  "default_values": {},
+  "default_view": "standard",
+  "detect_lemma_queries": false,
+  "display_freq_rank": true,
+  "fulltext_page_size": 100,
+  "fulltext_search_enabled": true,
+  "fulltext_view_enabled": false,
+  "generate_dictionary": true,
+  "gloss_search_enabled": true,
+  "images": false,
+  "input_format": "json-gzip",
+  "input_methods": [
+    "normal"
+  ],
+  "integer_meta_fields": [],
+  "interface_languages": [
+    "en",
+    "ru"
+  ],
+  "keep_lemma_order": false,
+  "keyboards": {
+    "english": "english"
+  },
+  "lang_props": {},
+  "languages": [
+    "ref",
+    "nama",
+    "english",
+    "english_note"
+  ],
+  "line_plot_meta": [
+    "year"
+  ],
+  "max_context_expand": 10,
+  "max_docs_retrieve": 9999,
+  "max_hits_retrieve": 10000,
+  "max_words_in_sentence": 40,
+  "media": false,
+  "media_length": 60,
+  "media_youtube": false,
+  "multiple_choice_fields": {},
+  "negative_search_enabled": true,
+  "query_log": false,
+  "query_timeout": 60,
+  "rtl_languages": [],
+  "search_meta": {
+    "columns": [],
+    "stat_options": [
+      "title",
+      "year"
+    ]
+  },
+  "search_remove_whitespaces": false,
+  "sentence_meta": [],
+  "start_page_url": "",
+  "transliterations": [
+    "original"
+  ],
+  "video": false,
+  "viewable_meta": [
+    "year"
+  ],
+  "wf_lowercase": true,
+  "word_fields": [
+    "trans_en"
+  ],
+  "word_search_display_gr": true,
+  "word_table_fields": [],
+  "year_sort_enabled": true
+}
